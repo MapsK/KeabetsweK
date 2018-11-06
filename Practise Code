@@ -1,0 +1,4 @@
+var Greeting()
+Greeting = "Hello World";
+
+alert("Hello World");
